@@ -1,0 +1,17 @@
+.todo__list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.todo__container {
+    padding: 15px;
+    width: 150px;
+    height: 200px;
+    border: 1px solid white;
+    margin: 2px;
+    text-align: center;
+}
+
+.todo__title {
+    font-weight: bold;
+}
